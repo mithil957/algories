@@ -1,2 +1,2 @@
 # Algories
-A collection of "search" algorithms
+A collection of algorithms
